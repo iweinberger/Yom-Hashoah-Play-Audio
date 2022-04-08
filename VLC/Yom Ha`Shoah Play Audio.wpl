@@ -1,0 +1,30 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1566"/>
+        <meta name="ItemCount" content="17"/>
+        <author/>
+        <title>Yom Ha`Shoah Play Audio</title>
+    </head>
+    <body>
+        <seq>
+            <media src="Intro Music (Sad Chello Music).mp3" tid="{9F32DA68-892B-4EC1-B3E5-608899DC10C3}"/>
+            <media src="Nazi Marching Music.mp3" cid="{52FF5010-1D67-4AD6-A6EA-7D40E6F5E1CA}" tid="{3C716630-C4BA-47A3-B2B9-0D2C51005073}"/>
+            <media src="Steam Train Leaving Station.mp3" tid="{4E3AA693-ECD7-4751-902D-439A80DD830A}"/>
+            <media src="Air Raid Siren.mp3" tid="{8EF7762C-A39F-4FDA-9C16-0ED00447F996}"/>
+            <media src="Transition Music.mp3" tid="{9958FE54-DA95-498A-870C-E0EBBDF42FB2}"/>
+            <media src="Planes Flying Low.mp3" tid="{AA9818C9-6ADE-4BFA-A3F8-71C0A6F0AADA}"/>
+            <media src="Marching Sound Effect.mp3" tid="{4AEE7CFA-E19A-4784-ABF4-B44F769B102D}"/>
+            <media src="Transition Music.mp3" tid="{9958FE54-DA95-498A-870C-E0EBBDF42FB2}"/>
+            <media src="Distant Train Noises.mp3" tid="{110690A7-222A-4EFA-9BE5-002D11730C1D}"/>
+            <media src="Transition Music.mp3" tid="{9958FE54-DA95-498A-870C-E0EBBDF42FB2}"/>
+            <media src="Train Whistle.mp3" tid="{1AA06F0C-319F-4D4D-AE6C-6DA64E0B2A53}"/>
+            <media src="Transition Music.mp3" tid="{9958FE54-DA95-498A-870C-E0EBBDF42FB2}"/>
+            <media src="Steam Train Leaving Station.mp3" tid="{4E3AA693-ECD7-4751-902D-439A80DD830A}"/>
+            <media src="Transition Music.mp3" tid="{9958FE54-DA95-498A-870C-E0EBBDF42FB2}"/>
+            <media src="Train Whistle.mp3" tid="{1AA06F0C-319F-4D4D-AE6C-6DA64E0B2A53}"/>
+            <media src="Train Whistle.mp3" tid="{1AA06F0C-319F-4D4D-AE6C-6DA64E0B2A53}"/>
+            <media src="..\..\OneDrive\Documents\GitHub\Yom-Hashoah-Play-Audio\VLC\Candle Lighting Music.mp3"/>
+        </seq>
+    </body>
+</smil>
